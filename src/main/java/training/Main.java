@@ -41,6 +41,7 @@ public class Main  {
         System.out.println("Enter roll number of student to delete its entry:");
         roll = sc.nextInt();
         dao.deleteStudent(roll);
+        //Sample comment for Git
 
     }
 
